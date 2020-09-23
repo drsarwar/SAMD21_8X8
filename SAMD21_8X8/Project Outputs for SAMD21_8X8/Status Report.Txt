@@ -1,0 +1,15 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [SAMD21_8X8.PrjPcb]
+   Generated File[SAMD21_8X8_Layout.GTP]
+   Generated File[SAMD21_8X8_Layout.GD1]
+   Generated File[SAMD21_8X8_Layout.GG1]
+   Generated File[SAMD21_8X8_Layout.RUL]
+   Generated File[SAMD21_8X8_Layout.EXTREP]
+   Generated File[SAMD21_8X8_Layout.REP]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 12:15:03 PM On 2020-09-23
